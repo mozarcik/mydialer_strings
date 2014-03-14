@@ -122,4 +122,8 @@
     <string name="prefs_header_get_full_version">Get full version</string>
     <string name="paste_number">Paste number</string>
     <string name="no_number_to_paste">No number to paste</string>
+    <string name="google_play_required">Google Play is required to get new themes.</string>
+    <string name="pref_call_button">Call found contact</string>
+    <string name="pref_call_button_summary">Call first found contact instead of entered number</string>
+    <string name="google_play_required_to_buy">Google Play is required to buy premium version.</string>
 </resources>

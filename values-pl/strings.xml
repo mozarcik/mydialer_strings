@@ -119,6 +119,10 @@
     <string name="registered_to">Zarejestrowany na %s</string>
     <string name="premium_feature">Dostępne tylko w wersji premium</string>
     <string name="prefs_header_get_full_version">Kup pełną wersję</string>
-    <string name="paste_number">Paste number</string>
-    <string name="no_number_to_paste">No number to paste</string>
+    <string name="paste_number">Wklej numer</string>
+    <string name="no_number_to_paste">Brak numeru do wklejenia</string>
+    <string name="google_play_required">Google Play jest wymagany do pobrania nowych styli.</string>
+    <string name="pref_call_button">Wybierz znaleziony kontakt</string>
+    <string name="pref_call_button_summary">Wybierz znaleziony kontakt zamiast wprowadzonego numeru</string>
+    <string name="google_play_required_to_buy">Google Play jest wymagany do kupienia pełnej wersji.</string>
 </resources>

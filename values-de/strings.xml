@@ -117,7 +117,11 @@
     <string name="enter_key">Schlüssel eingeben</string>
     <string name="invalid">Ungültig</string>
     <string name="key_verified">Schlüssel bestätigt</string>
-    <string name="registered_to">Registriert auf %</string>
+    <string name="registered_to">Registriert auf %s</string>
     <string name="premium_feature">Dieses Feature ist nur in der Vollversion erhältlich</string>
     <string name="prefs_header_get_full_version">Vollversion kaufen</string>
+    <string name="google_play_required">Google Play is required to get new themes.</string>
+    <string name="pref_call_button">Call found contact</string>
+    <string name="pref_call_button_summary">Call first found contact instead of entered number</string>
+    <string name="google_play_required_to_buy">Google Play is required to buy premium version.</string>
 </resources>
